@@ -1,0 +1,35 @@
+h1 {
+  color: green;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+header {
+  padding: 2em;
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+  background-color: grey;
+}
+
+h2 {
+  color: purple;
+  font-size: 1.8em;
+}
+
+main {
+  text-align: center;
+}
+
+main p {
+  font-size: 1.5em;
+  color: blue;
+  font-family: 'Kalam', cursive;
+  padding-top: 1.2em;
+}
+
+button {
+  margin-top: 20px;
+  margin-bottom: 100px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
